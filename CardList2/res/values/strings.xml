@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Card List 2</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+     <string name="parrafo">
+        Phasellus cursus, lacus id blandit mattis, eros augue pellentesque turpis, vehicula elementum ipsum neque vehicula nibh. Vivamus elit enim, ultrices ut mi non, rutrum malesuada augue. Ut tempor facilisis cursus. Maecenas tempor elit eu erat laoreet, nec sagittis sem tincidunt. Curabitur convallis, enim a lacinia gravida, metus risus consequat urna, nec lobortis lorem nisi at risus. Sed bibendum, ligula vitae eleifend ultricies, sem lectus hendrerit magna, vitae pellentesque enim neque ut tortor. Curabitur gravida, elit sit amet pulvinar ullamcorper, lorem sapien varius neque, quis mollis leo libero dictum risus. Vestibulum egestas ligula ac justo dapibus, eu blandit quam scelerisque. Donec ac tortor imperdiet, scelerisque libero eget, semper dolor. Ut et porttitor purus, nec eleifend ante. Ut odio enim, laoreet eu neque sit amet, condimentum dignissim mauris. Vestibulum neque mi, adipiscing id tincidunt et, tempor vitae odio. Integer tristique, tortor a placerat varius, diam metus convallis mauris, in hendrerit odio mi sed orci.
+        Ut elit ante, interdum sit amet augue a, convallis imperdiet augue. Vestibulum ac consequat libero, eu vulputate velit. Sed porta accumsan sapien, vitae molestie urna euismod eget. Donec bibendum augue id lorem malesuada, sodales sollicitudin turpis imperdiet. Sed interdum, augue eget vestibulum imperdiet, tellus lectus congue tortor, non rutrum metus nisl vitae leo. Mauris pulvinar eros sit amet tortor laoreet tincidunt. Suspendisse feugiat urna massa, dictum porta odio malesuada a. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Pellentesque sodales adipiscing rhoncus. Sed dignissim elit vel elit semper condimentum. Etiam erat magna, mollis eu adipiscing luctus, condimentum aliquam nibh.
+    </string>
+
+</resources>
