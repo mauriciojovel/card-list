@@ -11,6 +11,15 @@ public class MainActivity extends ActionBarActivity {
             "Etiam adipiscing congue eros a consequat. Praesent eu aliquet nisi. Nunc fringilla tincidunt enim, at viverra turpis semper at. Sed."
           , "Vestibulum mauris nunc, convallis eu porta ac, imperdiet in tortor. Duis dapibus augue et urna facilisis sagittis. Integer elit mauris."
           , "Donec eleifend ornare urna, id porta velit venenatis a. Nulla non neque eleifend, tincidunt ligula ut, luctus erat. Proin lorem."
+          , "Etiam adipiscing congue eros a consequat. Praesent eu aliquet nisi. Nunc fringilla tincidunt enim, at viverra turpis semper at. Sed."
+          , "Vestibulum mauris nunc, convallis eu porta ac, imperdiet in tortor. Duis dapibus augue et urna facilisis sagittis. Integer elit mauris."
+          , "Donec eleifend ornare urna, id porta velit venenatis a. Nulla non neque eleifend, tincidunt ligula ut, luctus erat. Proin lorem."
+          , "Etiam adipiscing congue eros a consequat. Praesent eu aliquet nisi. Nunc fringilla tincidunt enim, at viverra turpis semper at. Sed."
+          , "Vestibulum mauris nunc, convallis eu porta ac, imperdiet in tortor. Duis dapibus augue et urna facilisis sagittis. Integer elit mauris."
+          , "Donec eleifend ornare urna, id porta velit venenatis a. Nulla non neque eleifend, tincidunt ligula ut, luctus erat. Proin lorem."
+          , "Etiam adipiscing congue eros a consequat. Praesent eu aliquet nisi. Nunc fringilla tincidunt enim, at viverra turpis semper at. Sed."
+          , "Vestibulum mauris nunc, convallis eu porta ac, imperdiet in tortor. Duis dapibus augue et urna facilisis sagittis. Integer elit mauris."
+          , "Donec eleifend ornare urna, id porta velit venenatis a. Nulla non neque eleifend, tincidunt ligula ut, luctus erat. Proin lorem."
     };
     private ArrayAdapter<String> adapter;
     @Override
