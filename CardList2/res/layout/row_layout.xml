@@ -14,10 +14,23 @@
     </TextView>
     <View android:layout_width="match_parent" android:layout_height="1dp"
         android:background="@color/card_shadow" android:layout_marginTop="4dp" />
-    <TextView 
+    <LinearLayout android:orientation="horizontal"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/parrafo"
-        style="@style/CardTextContent"/>
+        android:layout_height="wrap_content">
+        <ImageView android:layout_width="100dip" android:layout_height="100dip"
+            android:contentDescription="@string/hello_world"
+            android:src="@drawable/candy"
+            android:padding="3dp"/>
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView 
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/parrafo"
+            style="@style/CardTextContent"/>
+            <TextView android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+        </LinearLayout>
+    </LinearLayout>    
 
 </LinearLayout>
